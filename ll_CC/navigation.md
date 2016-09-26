@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# 万年历Wiki
 
 
 <!--
@@ -20,7 +20,7 @@
   -->
 
 [About](pages/about.md)
-[Download](pages/download.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
