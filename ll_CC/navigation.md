@@ -21,8 +21,6 @@
 
 [开发技巧](pages/about.md)
 [机型识别]()
-*[SubMenu Item 1](pages/subitem1.md)
-*[SubMenu Item 2](pages/subitem2.md)
 [Menu Item 1]()
 
   * # SubMenu Heading 1
