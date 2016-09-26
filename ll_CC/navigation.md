@@ -23,12 +23,10 @@
 
 [源码解析](spacelab)
 
-[机型识别]()
+[机型适配]()
+
+  * [通知栏适配](pages/adapter/notification.md)
   
-  * # 国内机型
-  * [金立]()
-  * [Oppo]()
-  * [Asus]()
   
 [关于我们](pages/about.md)
 
