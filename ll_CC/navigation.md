@@ -19,7 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[开发技巧](pages/about.md)
+[开发技巧](pages/dev)
 
 [源码解析](spacelab)
 
