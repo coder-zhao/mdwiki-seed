@@ -19,7 +19,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
+[开发技巧]
+[机型识别]
+[关于我们](pages/about.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
